@@ -1,0 +1,3 @@
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/home/diego.lopes/Personal/repositories/spark-streaming-tweets-data/project/"), "spark-streaming-tweets-data-build")...
+[debug] Done updating ProjectRef(uri("file:/home/diego.lopes/Personal/repositories/spark-streaming-tweets-data/project/"), "spark-streaming-tweets-data-build")
