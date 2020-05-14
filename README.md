@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="spark_twitter.png">
+</p>
+
 # Spark Streaming Tweets Data
 Streaming Tweets Data with Spark Streaming &amp; Scala
 
