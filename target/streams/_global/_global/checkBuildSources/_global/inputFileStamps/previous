@@ -1,1 +1,1 @@
-["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[["/home/diego.lopes/Personal/repositories/spark-streaming-tweets-data/build.sbt","8af191e3a4419ce9c4c13d792d876a2f001dee70"]],"lastModifiedTimes":[]}]
+["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[["/home/diego.lopes/Personal/repositories/spark-streaming-tweets-data/build.sbt","96bcd8a4ae06300159ea06eae2a01c251328bbb5"]],"lastModifiedTimes":[]}]
