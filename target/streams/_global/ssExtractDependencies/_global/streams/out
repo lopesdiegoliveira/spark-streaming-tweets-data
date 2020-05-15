@@ -1,13 +1,8 @@
-[error] sbt.librarymanagement.ResolveException: Error downloading org.apache.spark:spark-core_2.13:2.13.2
+[error] sbt.librarymanagement.ResolveException: Error downloading org.apache.spark:spark-streaming-twitter_2.11:2.0.1
 [error]   Not found
 [error]   Not found
-[error]   not found: /home/diego.lopes/.ivy2/local/org.apache.spark/spark-core_2.13/2.13.2/ivys/ivy.xml
-[error]   not found: https://repo1.maven.org/maven2/org/apache/spark/spark-core_2.13/2.13.2/spark-core_2.13-2.13.2.pom
-[error] Error downloading org.apache.spark:spark-sql_2.13:2.13.2
-[error]   Not found
-[error]   Not found
-[error]   not found: /home/diego.lopes/.ivy2/local/org.apache.spark/spark-sql_2.13/2.13.2/ivys/ivy.xml
-[error]   not found: https://repo1.maven.org/maven2/org/apache/spark/spark-sql_2.13/2.13.2/spark-sql_2.13-2.13.2.pom
+[error]   not found: /home/diego.lopes/.ivy2/local/org.apache.spark/spark-streaming-twitter_2.11/2.0.1/ivys/ivy.xml
+[error]   not found: https://repo1.maven.org/maven2/org/apache/spark/spark-streaming-twitter_2.11/2.0.1/spark-streaming-twitter_2.11-2.0.1.pom
 [error] 	at lmcoursier.CoursierDependencyResolution.unresolvedWarningOrThrow(CoursierDependencyResolution.scala:247)
 [error] 	at lmcoursier.CoursierDependencyResolution.$anonfun$update$35(CoursierDependencyResolution.scala:216)
 [error] 	at scala.util.Either$LeftProjection.map(Either.scala:573)
@@ -32,19 +27,14 @@
 [error] 	at sbt.Execute.$anonfun$submit$1(Execute.scala:281)
 [error] 	at sbt.ConcurrentRestrictions$$anon$4.$anonfun$submitValid$1(ConcurrentRestrictions.scala:178)
 [error] 	at sbt.CompletionService$$anon$2.call(CompletionService.scala:37)
-[error] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
-[error] 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
-[error] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
-[error] 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
-[error] 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
-[error] 	at java.base/java.lang.Thread.run(Thread.java:832)
-[error] (ssExtractDependencies) sbt.librarymanagement.ResolveException: Error downloading org.apache.spark:spark-core_2.13:2.13.2
+[error] 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+[error] 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+[error] 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+[error] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+[error] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+[error] 	at java.lang.Thread.run(Thread.java:748)
+[error] (ssExtractDependencies) sbt.librarymanagement.ResolveException: Error downloading org.apache.spark:spark-streaming-twitter_2.11:2.0.1
 [error]   Not found
 [error]   Not found
-[error]   not found: /home/diego.lopes/.ivy2/local/org.apache.spark/spark-core_2.13/2.13.2/ivys/ivy.xml
-[error]   not found: https://repo1.maven.org/maven2/org/apache/spark/spark-core_2.13/2.13.2/spark-core_2.13-2.13.2.pom
-[error] Error downloading org.apache.spark:spark-sql_2.13:2.13.2
-[error]   Not found
-[error]   Not found
-[error]   not found: /home/diego.lopes/.ivy2/local/org.apache.spark/spark-sql_2.13/2.13.2/ivys/ivy.xml
-[error]   not found: https://repo1.maven.org/maven2/org/apache/spark/spark-sql_2.13/2.13.2/spark-sql_2.13-2.13.2.pom
+[error]   not found: /home/diego.lopes/.ivy2/local/org.apache.spark/spark-streaming-twitter_2.11/2.0.1/ivys/ivy.xml
+[error]   not found: https://repo1.maven.org/maven2/org/apache/spark/spark-streaming-twitter_2.11/2.0.1/spark-streaming-twitter_2.11-2.0.1.pom
